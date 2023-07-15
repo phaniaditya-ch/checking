@@ -1,3 +1,2 @@
 hello this is me practicing git.
-
-added some feature.
+added a feature
